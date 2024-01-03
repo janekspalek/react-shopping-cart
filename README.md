@@ -1,2 +1,2 @@
-# note-app
-Note taking application in React
+# React Shopping Cart
+Shopping cart application in React
